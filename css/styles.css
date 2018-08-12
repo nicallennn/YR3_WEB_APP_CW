@@ -1,0 +1,183 @@
+/* styles.css */
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background: url('../img/bg-darkest.jpg');
+  color: white;
+  height: 100%;
+}
+
+
+
+html{
+  height: 100%;
+}
+
+/* custom bottom border for nav */
+nav{
+  border-bottom: solid 1px #2dc4b5;
+}
+
+/* custom form css*/
+.bg-forms{
+  background-color: rgba(0,0,0,0.7);
+  border: solid 1px #2dc4b5;
+}
+
+/* set h1 size */
+body h1{
+  font-size: 36px;
+}
+
+/* custom title class */
+.custom-title{
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+  border: solid 1px #2dc4b5;
+  border-bottom: 0;
+}
+
+/* custom title class */
+.custom-title-create{
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+  border: solid 1px #2dc4b5;
+  border-bottom: 0;
+}
+
+/* customborder class, blue border*/
+.custom-border{
+  background-color: rgba(0,0,0,0.7);
+  border: solid 1px #2dc4b5;
+  border-top: solid 0px white;
+}
+
+/* captcha border styling*/
+.captcha-border{
+  border: solid 1px white;
+}
+
+/* nav colour*/
+nav.bg-custom{
+  background-color: black;
+}
+
+/* nav links color */
+nav.bg-custom a:link{
+  color: #2dc4b5;
+}
+
+nav.bg-custom a:visited{
+  color: #2dc4b5;
+}
+
+nav.bg-custom a:hover{
+  color: white;
+}
+
+nav.bg-custom a:active{
+  color: #2dc4b5;
+}
+
+/* logout button*/
+nav.logout-button a:link{
+  color: white;
+}
+
+nav.logout-button a:visited{
+  color: white;
+}
+
+nav.logout-button a:hover{
+  color: #2dc4b5;
+}
+
+nav.logout-button a:active{
+  color: white;
+}
+
+/* link styles*/
+.link-styling a:link{
+  color: white;
+}
+
+.link-styling a:visited{
+  color: white;
+}
+
+.link-styling a:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+.link-styling a:active{
+  color: white;
+}
+
+
+
+/* custom button styling */
+/* submit button*/
+.btn-custom{
+  color: #2dc4b5;
+  background-color: transparent;
+  border: solid 1px #2dc4b5;
+}
+
+.btn-custom:hover{
+  color: white;
+  background-color: #2dc4b5;
+  border: solid 1px white;
+}
+
+/* edit button*/
+.btn-edit{
+  color: #5ef441;
+  background-color: transparent;
+  border: solid 1px #5ef441;
+}
+
+.btn-edit:hover{
+  color: white;
+  background-color: #5ef441;
+  border: solid 1px white;
+}
+
+/* delete button*/
+.btn-delete{
+  color: #f45c42;
+  background-color: transparent;
+  border: solid 1px #f45c42;
+}
+
+.btn-delete:hover{
+  color: white;
+  background-color: #f45c42;
+  border: solid 1px white;
+}
+
+/* add image button*/
+.btn-image{
+  color: #f26419;
+  background-color: transparent;
+  border: solid 1px #f26419;
+}
+
+.btn-image:hover{
+  color: white;
+  background-color: #f26419;
+  border: solid 1px white;
+}
+
+
+/* custom footer styles */
+.custom-footer{
+  color: white;
+  background-color: black;
+  border-top: solid 1px #2dc4b5;
+  text-align: center;
+}
+
+/* custom footer paragraph styles*/
+.custom-footer p {
+  font-size: 12px;
+}

@@ -1,0 +1,45 @@
+BORROWED CODE
+.............
+
+CODE ADAPTED FROM GOOGLE MAPS API - FINDING LOCATIONS WITH SQL
+Found at: https://developers.google.com/maps/solutions/store-locator/clothing-store-locator
+
+CODE ADAPTED FROM STACK OVERFLOW - HOW TO REDIRECT IF JAVASCRIPT IS DISABLED
+Found at: https://stackoverflow.com/questions/2489376/how-to-redirect-if-javascript-is-disabled
+
+CODE ADAPTED STACK OVERFLOW - LIKE OPERATOR WITH $VARIABLE
+Found at: https://stackoverflow.com/questions/1843640/like-operator-with-variable
+
+CODE ADAPTED FROM WEB APPLICATIONS COURSE NOTES - GOOGLE MAP INTEGRATION
+Found at: http://stuweb.cms.gre.ac.uk/~ha07/web/JavaScript/GoogleMap.html
+
+CODE ADAPTED FROM WEB APPLICATIONS COURSE NOTES - UPLOADING FILES TO MYSQL
+Found at: http://stuweb.cms.gre.ac.uk/~ha07/web/PHP/imageUpload.html
+
+CODE ADAPTED FROM W3SCHOOLS - HMTL FORM ELEMENTS
+Found at: https://www.w3schools.com/html/html_form_elements.asp
+
+CODE ADAPTED FROM W3SCHOOLS - HTML5 INPUT TYPE HIDDEN
+Found at: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_hidden
+
+CODE ADAPTED FROM W3SCHOOLS - PHP INSERT DATA INTO MYSQL
+Found at: https://www.w3schools.com/php/php_mysql_insert.asp
+
+CODE ADAPTED FROM W3SCHOOLS - PHP MAIL() FUNCTION
+Found at:https://www.w3schools.com/php/func_mail_mail.asp
+
+CODE ADAPTED FROM W3SCHOOLS - PHP SETCOOKIE FUNCTION
+Found at: https://www.w3schools.com/php/func_http_setcookie.asp
+
+CODE ADAPTED FROM W3SCHOOLS - PHP SUPERGLOBALS
+Found at: https://www.w3schools.com/php/php_superglobals.asp
+
+CODE ADAPTED FROM W3SCHOOLS - SQL UPDATE STATEMENT
+Found at: https://www.w3schools.com/sql/sql_update.asp
+
+
+
+/*******************************************************************
+CODE ADAPTED FROM W3SCHOOLS - SQL UPDATE STATEMENT
+Found at: https://www.w3schools.com/sql/sql_update.asp
+********************************************************************/

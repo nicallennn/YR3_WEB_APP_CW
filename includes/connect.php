@@ -3,9 +3,9 @@
 //connection script
 //arguments for mysqli connect method submitted via POST from form
 
-$serverName = "mysql.cms.gre.ac.uk";
-$username = "na2880g";
-$password = "//ZelSenio&71";
+$serverName = "-----";
+$username = "-----";
+$password = "-----";
 $db = "mdb_na2880g";
 
 

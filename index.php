@@ -12,14 +12,6 @@
 
 ?>
 
-	<!--
-
-        ==================
-        LOGIN.PHP START
-        ==================
-
-     -->
-
       <!-- container  -->
 	<div class="container pt-3">
 

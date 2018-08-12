@@ -6,7 +6,7 @@
 $serverName = "-----";
 $username = "-----";
 $password = "-----";
-$db = "mdb_na2880g";
+$db = "-----";
 
 
 // Create connection
